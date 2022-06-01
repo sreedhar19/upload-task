@@ -1,0 +1,82 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<hudson.maven.MavenModuleSetBuild plugin="maven-plugin@3.18">
+  <actions>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.model.Cause_-UserIdCause>
+            <userId>sreedhar</userId>
+          </hudson.model.Cause_-UserIdCause>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+    <hudson.plugins.git.util.BuildData plugin="git@4.11.0">
+      <buildsByBranchName>
+        <entry>
+          <string>refs/remotes/origin/master</string>
+          <hudson.plugins.git.util.Build>
+            <marked plugin="git-client@3.11.0">
+              <sha1>50d64aa4d7e5d57aa5f6d90ee092d2bdf9ab1e98</sha1>
+              <branches class="list">
+                <hudson.plugins.git.Branch>
+                  <sha1 reference="../../../sha1"/>
+                  <name>refs/remotes/origin/master</name>
+                </hudson.plugins.git.Branch>
+              </branches>
+            </marked>
+            <revision reference="../marked"/>
+            <hudsonBuildNumber>1</hudsonBuildNumber>
+          </hudson.plugins.git.util.Build>
+        </entry>
+      </buildsByBranchName>
+      <lastBuild reference="../buildsByBranchName/entry/hudson.plugins.git.util.Build"/>
+      <remoteUrls>
+        <string>https://github.com/sreedhar19/javaparser-maven-sample.git</string>
+      </remoteUrls>
+    </hudson.plugins.git.util.BuildData>
+    <hudson.scm.SCMRevisionState_-None/>
+    <hudson.maven.reporters.MavenAggregatedArtifactRecord>
+      <records/>
+      <parent reference="../../.."/>
+    </hudson.maven.reporters.MavenAggregatedArtifactRecord>
+    <hudson.tasks.Fingerprinter_-FingerprintAction>
+      <record>
+        <entry>
+          <string>com.yourorganization:javaparser-maven-sample-1.0-SNAPSHOT-shaded.jar</string>
+          <string>37e85e333f91dbb0317055524e5b5bde</string>
+        </entry>
+        <entry>
+          <string>com.yourorganization:javaparser-maven-sample:pom.xml</string>
+          <string>8fb77e2b79394a33826359e350b5cabf</string>
+        </entry>
+        <entry>
+          <string>com.github.javaparser:javaparser-core-3.23.1.jar</string>
+          <string>1a8675cccc61b78a53465b4f6e5abdd4</string>
+        </entry>
+        <entry>
+          <string>com.yourorganization:javaparser-maven-sample-1.0-SNAPSHOT.jar</string>
+          <string>bc182f7c6433301d77203a6bdcb17b06</string>
+        </entry>
+      </record>
+    </hudson.tasks.Fingerprinter_-FingerprintAction>
+  </actions>
+  <queueId>33</queueId>
+  <timestamp>1648448633047</timestamp>
+  <startTime>1648448633080</startTime>
+  <result>SUCCESS</result>
+  <duration>211797</duration>
+  <charset>windows-1252</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>C:\Program Files (x86)\Jenkins\workspace\maven task</workspace>
+  <hudsonVersion>2.332.1</hudsonVersion>
+  <scm class="hudson.plugins.git.GitChangeLogParser" plugin="git@4.11.0">
+    <authorOrCommitter>false</authorOrCommitter>
+    <showEntireCommitSummaryInChanges>true</showEntireCommitSummaryInChanges>
+  </scm>
+  <culprits class="java.util.Collections$UnmodifiableSet">
+    <c class="sorted-set"/>
+  </culprits>
+  <mavenVersionUsed>3.8.5</mavenVersionUsed>
+</hudson.maven.MavenModuleSetBuild>

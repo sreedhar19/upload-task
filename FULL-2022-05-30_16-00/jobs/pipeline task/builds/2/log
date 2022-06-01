@@ -1,0 +1,406 @@
+Started by user [8mha:////4P99iFRnWExDMRUrkoFEchGg93t3FCuUgA6+xGvNQb1kAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgY+/dLi1CL94qLU1JSMxCIA4WYGY8MAAAA=[0msreedhar
+[8mha:////4KM3hfh7bEGHRZcHjgVCvXAn/QzAyLZ1R8iq2OMYlvR6AAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4PTJKwTnKgbhPqcMiQGfecGx4TX/0mXfYGoLL1GC7144AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] node
+Running on [8mha:////4LLybR9Ya5tcA6i8BPjk9G+J4NG+K2eOVd0qveKfJJ3iAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZR/eT83ILSktQifY2k0sycEt3MPE19AHHxbH3KAAAA[0mJenkins in C:\Program Files (x86)\Jenkins\workspace\pipeline task
+[8mha:////4CZdUF//vm0Cy0oOJkPfzlZ19KwKIJ4aiuArF4PhJeCkAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] {
+[8mha:////4KCZYIlaGL9Iq2WBggxa8UwgwKDXfMVZxoZCY6vhu+eHAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] stage
+[8mha:////4ETagfY0ZoLiu/rAQvOC1uAhpS9Qd23kgdPFsKk/NK4tAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0ggUxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jek7ggRwAAAAA==[0m[Pipeline] { (Declarative: Tool Install)
+[8mha:////4JoP6uRhvFIFtHvSLJgMXhkzaeDSknWxgKn1yLFhEkMcAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaWGsbAmNJ0AWEZb8zwLrbuWJvJp3kLiJlZNMMm+a93rDOic4UbLcG+wdZu14DKOti0+U+lugiXu6ck2YKRguzSSpM+cFJRUDS1gDKwEbgzpQdmgLbIVXD9UGhba9lFS/o4DGdQM8gYlqLiqVL8wJdvexy4Q/z18BzLEA29ce4gfg7KmOvAAAAA==[0m[Pipeline] tool
+[8mha:////4IUgk5yly0c1J/8sMs2Oj7Ub44TYfZknszhD6qugx09SAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbGRNjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI4F2L72ED8v8DEJvAAAAA==[0m[Pipeline] envVarsForTool
+[8mha:////4JOXvaDK1wWDySRKwUtHpNBntlTqzWGbHZcaFwSpJqSIAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbmRhjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j/zqggXvAAAAA==[0m[Pipeline] }
+[8mha:////4EaMXujHXtZcjwtljfs2HBnYc9UDMg7dZIEDoOhOpnKMAAAAox+LCAAAAAAAAP9tjTESgjAQRT84FraWHiJoYeVY2WZoPEGEGAOZXUwWofJEXs07yMiMlb/67zXv9cYyRRw5OtVYaj2lyqsu9G56auDYXgMPquGLqpgSB6tKO5Rc29OMJYvFvCzHQmNlqQqcPDnBWjfmYYpgyBVniZM7aOS+vuOJTE9lMVG+MEZsbn2dmH6dvwGMXSfId1tBtv8AExtCpb0AAAA=[0m[Pipeline] // stage
+[8mha:////4LNxFUsDXG4dN2Ek7cLZ8bN66bcxL1F5gvD4b4viMcOzAAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BKWgpeYSjSHSIitZywwtMbIwT6y7YF5KKF/E1/oAhEhVb7ay0mucLqhThQNGJzmLvMbVeDGF0uYmJYn8JNImOzqIlTBSsUHZSZOxxQUVsYUlRwkrC2mIbKHl0DBvZ6buug0ZXnzjmbS+h9OYGDyhkNrOO/IU5wvY6mkT48/wVwDwwFDuGsmk+x+oNEzd2msEAAAA=[0m[Pipeline] withEnv
+[8mha:////4JnTKI1UDbcUDbdifO7+xQqnUNMBsfYlLzE3mUoVFGhnAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUZUVMrFEWThCaEJJG/7dJSjpxIq7GHWipxIQHy7ZkvdcbqhjgRMEwp7GzGFvLej+aObFMobt5yszRlbWEkbxmQmdBSp/XKihpWFWUsOGw1dh6ihZNgh138iFrL9HUlxTm7cihtGqAJxR8JicZ0rdMAfb3UUXCH+cvAKY+Qdk0ix2WZ/UBbwyqm8IAAAA=[0m[Pipeline] {
+[8mha:////4CM+5LPcqGOEHm10n0XFWtasKu0wSY1/4GhfpxFLb9XyAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUwIiYukZZOEFoQkgb/V9+UtqJE3E17kBLJSY8WLYl673eUESGE7ETjcXWY6y96ELvpiQG4vYaaBANXURNGClYoeygyNhqqYqShUVZDisJa4t1oOjRJdjIRj90GTS68px42o4Scm/u8IRMTuSkOX3LyLC99SYS/jh/ATB2CfLdfrbD/Cw+y7kUycIAAAA=[0m[Pipeline] stage
+[8mha:////4N2zjo144WqrIBxh63eSowviiwTxPpckOy0wzo46mW/JAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUCDbE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5Dv9rMd5mfxAbNWnxXCAAAA[0m[Pipeline] { (Hello)
+[8mha:////4AUW1YSYMvDMhrB9Ed6vgyDSULcMNi+FUmc83GdGy+lhAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiJKgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUG53n9qHN8W7Eii+AAAA[0m[Pipeline] tool
+[8mha:////4N2Z9lh1LRON2d9wt9d6xvrwhccL3oJ4tCI2r9T6wkcMAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiJESDqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDhnK7+9Q+vAEG6D8DvgAAAA==[0m[Pipeline] envVarsForTool
+[8mha:////4O9tzfy/iD9kNAQtutDUHYLHJ1p1T43p97s586Y6L6oaAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUSEgMiKlrlIUThCaEtNH/5SelnTgRV+MOtFRiwoNlW7Le6w1FZDgRO9FYbD3G2osu9G5KYiBur4EG0dBF1ISRghXKDoqMrZaqKFlYlOWwkrC2WAeKHl2CjWz0Q5dBoyvPiaftKCH35g5PyORETprTt4wM21tvIuGP8xcAY5cg3+1nO8zP4gOeMTC6wgAAAA==[0m[Pipeline] withEnv
+[8mha:////4GeOK71PFd3++QQgon9v1FE747iuHNiysobAJeUPH3rcAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUTCAhpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD0rlhNLCAAAA[0m[Pipeline] {
+[8mha:////4KQbDEVWHmKSt5P3jXO7LUVG4D86rA0lbTnZhe/ZKbCnAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiOhCiSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwZyu3uU/vwBr2eB0O+AAAA[0m[Pipeline] echo
+Hello World
+[8mha:////4OWHYVxP8xWPguYFrtYL7TTM09PXoxjip2cVlFtmZZjSAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICVEgoFa3lhheYxBgn1l2wHZyKF/E1/oBFJCq2WO1sM683LIOHmr3BTlNvKTQWBzeavDCx76+OE3Z8wYYpsNModZLc6tOMkqOGOUUJCwErTY3jYMlEWItOPVTlFJnqHH3+jgJK297hCYXI5qh8/MLkYXMb28D08/wVwDQMEcr9Ntfu8AEWNdkpvgAAAA==[0m[Pipeline] }
+[8mha:////4CBXS5z8tk+Suxoq8PIzXaioG9bdHPDts/qjtp0pJYl9AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKi0FAgqrRWGl5gYmOcWHfGdkgqXsTX+AMWkajYYrWzzbzesI4BThwM9poGS7Gz6N1o8sKJw3B1PGHPF+yYIjuNrZ5aVrpZsOWkYUlRwkrARlPnOFoyCbailw9ZOUmmOqeQv6OA0qo7PKEQ2ZxkSF+YA+xuo4pMP89fAczeJyj3da768AEi+zpyvgAAAA==[0m[Pipeline] // withEnv
+[8mha:////4NqLnpYhxKj5syuMG1OC9LoGV/DkUKQSX7UFRB26sUa+AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPMIRER2iSmul4QUmPowT687YDknFi/gaf8AiEhVbrHa2mdcb1jHAiYMRPdJgKXZWeDeavMTEYbg6nkTPF9ExRXYoWpxa1tgs2HJCWFKUsJKwQeocR0smwVb26qEqp8hU5xTyd5RQWn2HJxQym5MK6QtzgN1t1JHp5/krgNn7BGVd59ofPjbYp22+AAAA[0m[Pipeline] }
+[8mha:////4Kl95EA/K+RggO9R5RDRpo+hTD7eyFzoNIG8aHXzC2aWAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiSImo0lppeIGJjXFi3RnbIal4EV/jD1hEomKL1c4283rDOgY4cTDYaxosxc6id6PJCycOw9XxhD1fsGOK7DS2empZ6WbBlpOGJUUJKwEbTZ3jaMkk2IpePmTlJJnqnEL+jgJKq+7whEJkc5IhfWEOsLuNKjL9PH8FMHufoDzUufb1BzCenzi+AAAA[0m[Pipeline] // stage
+[8mha:////4BNxyGRpUcwPwsY07kS3idDngqltDh48C2z0zah4VZDvAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUVGyIqWuUhROEJIS00f8lSWknTsTVuAOBSkx4sGxL1nu+oIoBjhQs6wz2DqNybPCjzYlNFPqLp4l1dGaKMJI3TJhJkDbtUgUlA4uKElYc1gaVp+jQJtjwTt5l7SXa+pRC3g4cSqdv8ICCZ3KSIX3LHGB7HXUk/HH+AmAeEpS7Jluz/zyrN+6T+eXCAAAA[0m[Pipeline] stage
+[8mha:////4F5TbIFvDVLEmuXDsixAldvqm/uFmLFT4RzVflinX84cAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUQjAhpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD/hYjrHCAAAA[0m[Pipeline] { (Build)
+[8mha:////4HObjYjh4s5dBCNP3fHkN3n0CsDlTyidKTdsVzkdm6G/AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiIUGDqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDhnK7+9Q+vAEIWoEpvgAAAA==[0m[Pipeline] tool
+[8mha:////4AV7iK2aSj9cdFK6hOQ5mxhiuR7aZStiPtZnmhtLdcZLAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiISEKRJXWcsMLTGyME+vO2A5JxYv4Gn8gEImKLVY728zzBcsU4cjRYmuoc5Qah8H3dlo4cOwungds+YwNU2JvUJpBsjb1jJKzgTlFCQsBK0ON5+TIZliLVt1V5RXZ6pTj9B0ElE7f4AGFmMxZxfyFMcLm2uvE9PP8FcAYMpTb3af24Q1Ja5owvgAAAA==[0m[Pipeline] envVarsForTool
+[8mha:////4KvTGyrM62ZxUGH2lJ/ZJFSrv611SHw/j8ASkPKsJ9vSAAAAqB+LCAAAAAAAAP9tjUEKwjAURH8rXbh16SFSEARBXHUbsvEEsYkxbfi//qS2K0/k1byDrQVXzmKYGRje6w1FZDgRO9FYbD3G2osu9G5KYiBur4EG0dBF1ISRghXKDoqMrZaqKFlYlOWwkrC2WAeKHl2CjWz0Q5dBoyvPiaftKCH35g5PyORETprTt4wM21tvIuGP8xcAY5cg3+1nO8zP4gPmlJ7MwgAAAA==[0m[Pipeline] withEnv
+[8mha:////4D+MUA47soGeicRKZMgmtKnS8Pv/WPJ3owKeo/4Htgb0AAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUYgIhpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD0QKVszCAAAA[0m[Pipeline] {
+[8mha:////4EuotV0XMmiqPosT5TJmZWpRnOt1tOHZbxOy4FhI6i8jAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKCoEIoFa3lhheYxBgn1l2wHZyKF/E1/oBFJCq2WO1sM683LIOHmr3BTlNvKTQWBzeavDCx76+OE3Z8wYYpsNModZLc6tOMkqOGOUUJCwErTY3jYMlEWItOPVTlFJnqHH3+jgJK297hCYXI5qh8/MLkYXMb28D08/wVwDREKHeHXPvt8AHN/bm5vgAAAA==[0m[Pipeline] checkout
+The recommended git tool is: NONE
+using credential github credentials
+ > C:\Users\MULASRED\AppData\Local\Programs\Git\bin\git.exe rev-parse --resolve-git-dir C:\Program Files (x86)\Jenkins\workspace\pipeline task\.git # timeout=10
+Fetching changes from the remote Git repository
+ > C:\Users\MULASRED\AppData\Local\Programs\Git\bin\git.exe config remote.origin.url https://github.com/sreedhar19/javaparser-maven-sample.git # timeout=10
+Fetching upstream changes from https://github.com/sreedhar19/javaparser-maven-sample.git
+ > C:\Users\MULASRED\AppData\Local\Programs\Git\bin\git.exe --version # timeout=10
+ > git --version # 'git version 2.35.1.windows.2'
+using GIT_ASKPASS to set credentials 
+ > C:\Users\MULASRED\AppData\Local\Programs\Git\bin\git.exe fetch --tags --force --progress -- https://github.com/sreedhar19/javaparser-maven-sample.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > C:\Users\MULASRED\AppData\Local\Programs\Git\bin\git.exe rev-parse "refs/remotes/origin/master^{commit}" # timeout=10
+Checking out Revision 50d64aa4d7e5d57aa5f6d90ee092d2bdf9ab1e98 (refs/remotes/origin/master)
+ > C:\Users\MULASRED\AppData\Local\Programs\Git\bin\git.exe config core.sparsecheckout # timeout=10
+ > C:\Users\MULASRED\AppData\Local\Programs\Git\bin\git.exe checkout -f 50d64aa4d7e5d57aa5f6d90ee092d2bdf9ab1e98 # timeout=10
+Commit message: "Merge pull request #32 from javaparser/dependabot/maven/com.github.javaparser-javaparser-core-3.23.1"
+ > C:\Users\MULASRED\AppData\Local\Programs\Git\bin\git.exe rev-list --no-walk 50d64aa4d7e5d57aa5f6d90ee092d2bdf9ab1e98 # timeout=10
+[8mha:////4MUxhV7S7xmEqoFEKYOvqRKl2SIlFMe9eWjJheXK2pDwAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIioEIoFa3lhheYxBgn1l2wHZyKF/E1/oBFJCq2WO1sM683LIOHmr3BTlNvKTQWBzeavDCx76+OE3Z8wYYpsNModZLc6tOMkqOGOUUJCwErTY3jYMlEWItOPVTlFJnqHH3+jgJK297hCYXI5qh8/MLkYXMb28D08/wVwDREKHeHXPvt8AGMzKKgvgAAAA==[0m[Pipeline] bat
+
+C:\Program Files (x86)\Jenkins\workspace\pipeline task>mvn -B -DskipTests clean package 
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ------------< com.yourorganization:javaparser-maven-sample >------------
+[INFO] Building javaparser-maven-sample 1.0-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ javaparser-maven-sample ---
+[INFO] Deleting C:\Program Files (x86)\Jenkins\workspace\pipeline task\target
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ javaparser-maven-sample ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 1 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ javaparser-maven-sample ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 1 source file to C:\Program Files (x86)\Jenkins\workspace\pipeline task\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ javaparser-maven-sample ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\Program Files (x86)\Jenkins\workspace\pipeline task\src\test\resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ javaparser-maven-sample ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ javaparser-maven-sample ---
+[INFO] Tests are skipped.
+[INFO] 
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ javaparser-maven-sample ---
+[INFO] Building jar: C:\Program Files (x86)\Jenkins\workspace\pipeline task\target\javaparser-maven-sample-1.0-SNAPSHOT.jar
+[INFO] 
+[INFO] --- maven-shade-plugin:3.2.4:shade (default) @ javaparser-maven-sample ---
+[INFO] Including com.github.javaparser:javaparser-core:jar:3.23.1 in the shaded jar.
+[WARNING] javaparser-core-3.23.1.jar, javaparser-maven-sample-1.0-SNAPSHOT.jar define 1 overlapping resource: 
+[WARNING]   - META-INF/MANIFEST.MF
+[WARNING] maven-shade-plugin has detected that some class files are
+[WARNING] present in two or more JARs. When this happens, only one
+[WARNING] single version of the class is copied to the uber jar.
+[WARNING] Usually this is not harmful and you can skip these warnings,
+[WARNING] otherwise try to manually exclude artifacts based on
+[WARNING] mvn dependency:tree -Ddetail=true and the above output.
+[WARNING] See http://maven.apache.org/plugins/maven-shade-plugin/
+[INFO] Attaching shaded artifact.
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  7.186 s
+[INFO] Finished at: 2022-03-31T10:51:31+05:30
+[INFO] ------------------------------------------------------------------------
+[8mha:////4LdvY/lXGEM7evwV9lz9OyjkYsKoa+YSemtXtZ7EBAc2AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIihQohqrRWGl5gYmOcWHfGdkgqXsTX+AMWkajYYrWzzbzesI4BThwM9poGS7Gz6N1o8sKJw3B1PGHPF+yYIjuNrZ5aVrpZsOWkYUlRwkrARlPnOFoyCbailw9ZOUmmOqeQv6OA0qo7PKEQ2ZxkSF+YA+xuo4pMP89fAczeJyj3da768AH8/EyevgAAAA==[0m[Pipeline] }
+[8mha:////4IhrSc5f7BzHS5yIHI6+av4xDO39lXsAwOkgQQKFlFYoAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPMKRSIOEqNJaaXiBiQ/jxLoztkNS8SK+xh+wiETFFqudbeb1hnUMcOJgRI80WIqdFd6NJi8xcRiujifR80V0TJEdihanljU2C7acEJYUJawkbJA6x9GSSbCVvXqoyiky1TmF/B0llFbf4QmFzOakQvrCHGB3G3Vk+nn+CmD2PkFZ17n2hw/PHxcivgAAAA==[0m[Pipeline] // withEnv
+[8mha:////4BkiYyw+xZYD6ypuurG5cquY5F5g2SFSA7A6M4gLagmdAAAApR+LCAAAAAAAAP9tjTsOwjAQRDdBFLSUHGIj8alQKlrLDScwiTFOrN1gOzgVJ+Jq3AGLSFRMMZo3zXu9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKZhiFDu9rm2hw/KU6NBvgAAAA==[0m[Pipeline] }
+[8mha:////4Po6sXSyZkJMvmkAVn3pE/TaUwNQ60hTgUNof4SzQM27AAAApR+LCAAAAAAAAP9tjTsOwjAQRDdBFLSUHGIj8alQKlrLDScwiTFOrN1gOzgVJ+Jq3AGLSFRMMZo3zXu9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKZhiFDuDrm2+w/5sPj9vgAAAA==[0m[Pipeline] // stage
+[8mha:////4COOLB2Gr/cFA+wtSUhGy7w0/GQynnYNxCLgHW9cxCbdAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUgMSCOrFGXThBaEJIGv1fkpR04kRcjTsQqMSEB8u2ZL3nC6rgoSGvmVXYGwydYYMbdU4ske8vjhKzdGYdYSCnWKtSS1Id59pSVDCrKGHBYamwcxQM6ggrbsVd1E6grk/R5+3AoTTyBg8oeCZH4eO3TB7W11EGwh/nLwCmIUK52Wbb7T/P6g1ROUYOwgAAAA==[0m[Pipeline] stage
+[8mha:////4Enu694JchAd3lYJATNisalqhZvdA9DAjHXMHE6A3bb2AAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0QIIBMXWNsnCC0ISQNvq//KS0EyfiatyBlkpMeLBsS9Z7vaGIDCdiJxqLrcdYe9GF3k1JDMTtNdAgGrqImjBSsELZQZGx1VIVJQuLshxWEtYW60DRo0uwkY1+6DJodOU58bQdJeTe3OEJmZzISXP6lpFhe+tNJPxx/gJg7BLku/1sh/lZfADpB/iZwgAAAA==[0m[Pipeline] { (Test)
+[8mha:////4Bu5KRO+cI5fnE2OKu7AQc+POdBX3tJVI+wsAeOZMab8AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSUICEqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDhnK7+9Q+vAEGDPXtvgAAAA==[0m[Pipeline] tool
+[8mha:////4BR+f6PFSis8XndmrxGJba+PKwICebQEfKWd5BRl41uXAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSUCCEqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDhnK7+9Q+vAFHPe70vgAAAA==[0m[Pipeline] envVarsForTool
+[8mha:////4FCWhqqtRHs1a+nXNjkvikr1pBX6MxgyPb/5UEQG9krTAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogUCSQG1Ik16sIJQhNC0uj/kqSkEyfiatyBQCUmPFi2Jes9X1AFDw15zazC3mDoDBvcqHNiiXx/cZSYpTPrCAM5xVqVWpLqONeWooJZRQkLDkuFnaNgUEdYcSvuonYCdX2KPm8HDqWRN3hAwTM5Ch+/ZfKwvo4yEP44fwEwDRHK7T7bbvN5Vm8f1tSAwgAAAA==[0m[Pipeline] withEnv
+[8mha:////4JzligJPM7DxBlnc3/bxrdes7M4Rc4mB1NhYoiE9gJu7AAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogUJDbE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5AfdrPt52fxAbb5KxbCAAAA[0m[Pipeline] {
+[8mha:////4D3Vj6Sl3K2JHyXaclrQDOi+Df6ScXbQ+3s6wIQwnM38AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiEB2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwZyv32U7vwBirOQHu+AAAA[0m[Pipeline] bat
+
+C:\Program Files (x86)\Jenkins\workspace\pipeline task>mvn test -Dmaven.test.failure.ignore=true 
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ------------< com.yourorganization:javaparser-maven-sample >------------
+[INFO] Building javaparser-maven-sample 1.0-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ javaparser-maven-sample ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 1 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ javaparser-maven-sample ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ javaparser-maven-sample ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\Program Files (x86)\Jenkins\workspace\pipeline task\src\test\resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ javaparser-maven-sample ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ javaparser-maven-sample ---
+[INFO] No tests to run.
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  4.002 s
+[INFO] Finished at: 2022-03-31T10:51:41+05:30
+[INFO] ------------------------------------------------------------------------
+[8mha:////4Ce0wTO3zvpi/Len5jppWLrBqbOyetC2i8A4S4VMwiJYAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiBB2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwhQ7nffWr7BmM+Nsi+AAAA[0m[Pipeline] }
+[8mha:////4HXvQ7iMat0+NnWO87Sz9yjqROe/A3XJZW4mkysV/YX9AAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJCkQ5R0VppeIFJjLFj3Tm2g1PxIr7GHwhEomKL1c4283zBOgY4ctBoFfWGYmvQu1HPCzOH/uo4o+ULtkyRncJG5YY7dVqw4aRgSVHCSsBGUes4GtIJtsLKu6ycJF2dU5i/g4DSdAM8oBCzOcmQvjAF2N3GLjL9PH8FMHmfoKzrT+3fTT40or4AAAA=[0m[Pipeline] // withEnv
+[8mha:////4BETeAp5Y19EPEctO5EiT97oe9OQNpwGlFM9SDFxuVinAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSAKJAqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKZhiFDu9rm2hw+M7k24vgAAAA==[0m[Pipeline] }
+[8mha:////4OxYQHU+bptLBHYoOOvgr3Af8qKb0SKcIq0V02oy5w0kAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSgNIgqrRWGl5gYmOcWHfGdkgqXsTX+AMWkajYYrWzzbzesI4BThwM9poGS7Gz6N1o8sKJw3B1PGHPF+yYIjuNrZ5aVrpZsOWkYUlRwkrARlPnOFoyCbailw9ZOUmmOqeQv6OA0qo7PKEQ2ZxkSF+YA+xuo4pMP89fAczeJygPda59/QG0rN5JvgAAAA==[0m[Pipeline] // stage
+[8mha:////4ChG7QSzmJuFV3JhikkRwml5yL/T+IQTMkaGZdracrFZAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUICQG1Ik16sIJQhNC0uj/kqSkEyfiatyBQCUmPFi2Jes9X1AFDw15zazC3mDoDBvcqHNiiXx/cZSYpTPrCAM5xVqVWpLqONeWooJZRQkLDkuFnaNgUEdYcSvuonYCdX2KPm8HDqWRN3hAwTM5Ch+/ZfKwvo4yEP44fwEwDRHKzTbbbv95Vm961L0AwgAAAA==[0m[Pipeline] stage
+[8mha:////4JqC/FVyuY9S+0Q+HczWn0nZLS+uvvZCUYCDtPaRNyurAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0QQIJMXWNsnCC0ISQNvq//KS0EyfiatyBlkpMeLBsS9Z7vaGIDCdiJxqLrcdYe9GF3k1JDMTtNdAgGrqImjBSsELZQZGx1VIVJQuLshxWEtYW60DRo0uwkY1+6DJodOU58bQdJeTe3OEJmZzISXP6lpFhe+tNJPxx/gJg7BLku/1sh/lZfAD9vR8YwgAAAA==[0m[Pipeline] { (sonar)
+[8mha:////4ANHCUBQUaFgOIWKW5XmEBE+1oay4uL0CHCmntxLvl4yAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOLSUIAQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUG53n9qHNzJSLA2+AAAA[0m[Pipeline] tool
+[8mha:////4K47sOwvXrZ3IBL3TIRcSAheiXd7w/Oz+PY+VufFbKa+AAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJCARISSkVrueEFJjHGiXUXbAen4kV8jT9gEYmKLVY728zrDcvgoWZvsNPUWwqNxcGNJi9M7Pur44QdX7BhCuw0Sp0kt/o0o+SoYU5RwkLASlPjOFgyEdaiUw9VOUWmOkefv6OA0rZ3eEIhsjkqH78wedjcxjYw/Tx/BTANEcrdIdd+O3wATIMs3b4AAAA=[0m[Pipeline] envVarsForTool
+[8mha:////4B2TDQULXOXRoWbR1Zl3dhVWvFBLmk2ySxlJldT1l/3eAAAAqB+LCAAAAAAAAP9tjUEKwjAURH8rXbh16SFSBAVBunIbuvEEsYkxafi/JqnpyhN5Ne9gtODKWQwzA8N7vqAKHhrymlmFvcHQGTa4UefEEvn+4igxS2fWEQZyirUqtSTVca4tRQWzihIWHJYKO0fBoI6w4lbcRe0E6voUfd4OHEojb/CAgmdyFD5+y+RhfR1lIPxx/gJgGiKU23223ebzrN5HE58KwgAAAA==[0m[Pipeline] withEnv
+[8mha:////4JcMdGCPzUfm1pzrAuyTig3fCjIjaz6GEMHMX+X83A/4AAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUIDEhpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYL8sJttPz+LDwMT42zCAAAA[0m[Pipeline] {
+[8mha:////4GteRwsv/hJDAzGFI97ZJShG3DtgzFEYR64Qz4yBMxIQAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIigagQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUO63n9qFN1+P256+AAAA[0m[Pipeline] bat
+
+C:\Program Files (x86)\Jenkins\workspace\pipeline task>mvn sonar:sonar -Dsonar.login=95ffabcfd0d6ca42dcb392a8b98f3736313dc78d 
+[INFO] Scanning for projects...
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/2.7/maven-deploy-plugin-2.7.pom
+Progress (1): 2.7/5.6 kBProgress (1): 5.5/5.6 kBProgress (1): 5.6 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/2.7/maven-deploy-plugin-2.7.pom (5.6 kB at 2.5 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/2.7/maven-deploy-plugin-2.7.jar
+Progress (1): 2.7/27 kBProgress (1): 5.5/27 kBProgress (1): 8.2/27 kBProgress (1): 11/27 kB Progress (1): 14/27 kBProgress (1): 16/27 kBProgress (1): 19/27 kBProgress (1): 21/27 kBProgress (1): 24/27 kBProgress (1): 27/27 kBProgress (1): 27 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/2.7/maven-deploy-plugin-2.7.jar (27 kB at 39 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.3/maven-site-plugin-3.3.pom
+Progress (1): 2.7/21 kBProgress (1): 5.5/21 kBProgress (1): 8.2/21 kBProgress (1): 11/21 kB Progress (1): 14/21 kBProgress (1): 16/21 kBProgress (1): 19/21 kBProgress (1): 21 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.3/maven-site-plugin-3.3.pom (21 kB at 36 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.3/maven-site-plugin-3.3.jar
+Progress (1): 4.1/124 kBProgress (1): 8.2/124 kBProgress (1): 12/124 kB Progress (1): 16/124 kBProgress (1): 20/124 kBProgress (1): 24/124 kBProgress (1): 28/124 kBProgress (1): 32/124 kBProgress (1): 36/124 kBProgress (1): 40/124 kBProgress (1): 45/124 kBProgress (1): 49/124 kBProgress (1): 53/124 kBProgress (1): 57/124 kBProgress (1): 61/124 kBProgress (1): 65/124 kBProgress (1): 69/124 kBProgress (1): 73/124 kBProgress (1): 77/124 kBProgress (1): 81/124 kBProgress (1): 85/124 kBProgress (1): 90/124 kBProgress (1): 94/124 kBProgress (1): 98/124 kBProgress (1): 102/124 kBProgress (1): 106/124 kBProgress (1): 110/124 kBProgress (1): 114/124 kBProgress (1): 118/124 kBProgress (1): 122/124 kBProgress (1): 124 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.3/maven-site-plugin-3.3.jar (124 kB at 132 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-antrun-plugin/1.3/maven-antrun-plugin-1.3.pom
+Progress (1): 4.1/4.7 kBProgress (1): 4.7 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-antrun-plugin/1.3/maven-antrun-plugin-1.3.pom (4.7 kB at 9.4 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/12/maven-plugins-12.pom
+Progress (1): 4.1/12 kBProgress (1): 8.2/12 kBProgress (1): 12 kB                       Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/12/maven-plugins-12.pom (12 kB at 23 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/9/maven-parent-9.pom
+Progress (1): 4.1/33 kBProgress (1): 8.2/33 kBProgress (1): 12/33 kB Progress (1): 16/33 kBProgress (1): 20/33 kBProgress (1): 24/33 kBProgress (1): 28/33 kBProgress (1): 32/33 kBProgress (1): 33 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/9/maven-parent-9.pom (33 kB at 59 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-antrun-plugin/1.3/maven-antrun-plugin-1.3.jar
+Progress (1): 4.1/24 kBProgress (1): 8.2/24 kBProgress (1): 12/24 kB Progress (1): 16/24 kBProgress (1): 20/24 kBProgress (1): 24 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-antrun-plugin/1.3/maven-antrun-plugin-1.3.jar (24 kB at 46 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-assembly-plugin/2.2-beta-5/maven-assembly-plugin-2.2-beta-5.pom
+Progress (1): 4.1/15 kBProgress (1): 8.2/15 kBProgress (1): 12/15 kB Progress (1): 15 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-assembly-plugin/2.2-beta-5/maven-assembly-plugin-2.2-beta-5.pom (15 kB at 30 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/16/maven-plugins-16.pom
+Progress (1): 4.1/13 kBProgress (1): 8.2/13 kBProgress (1): 12/13 kB Progress (1): 13 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/16/maven-plugins-16.pom (13 kB at 26 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-assembly-plugin/2.2-beta-5/maven-assembly-plugin-2.2-beta-5.jar
+Progress (1): 4.1/209 kBProgress (1): 8.2/209 kBProgress (1): 12/209 kB Progress (1): 16/209 kBProgress (1): 20/209 kBProgress (1): 24/209 kBProgress (1): 28/209 kBProgress (1): 32/209 kBProgress (1): 36/209 kBProgress (1): 40/209 kBProgress (1): 45/209 kBProgress (1): 49/209 kBProgress (1): 53/209 kBProgress (1): 57/209 kBProgress (1): 61/209 kBProgress (1): 65/209 kBProgress (1): 69/209 kBProgress (1): 73/209 kBProgress (1): 77/209 kBProgress (1): 81/209 kBProgress (1): 85/209 kBProgress (1): 90/209 kBProgress (1): 94/209 kBProgress (1): 98/209 kBProgress (1): 102/209 kBProgress (1): 106/209 kBProgress (1): 110/209 kBProgress (1): 114/209 kBProgress (1): 118/209 kBProgress (1): 122/209 kBProgress (1): 126/209 kBProgress (1): 131/209 kBProgress (1): 135/209 kBProgress (1): 139/209 kBProgress (1): 143/209 kBProgress (1): 147/209 kBProgress (1): 151/209 kBProgress (1): 155/209 kBProgress (1): 159/209 kBProgress (1): 163/209 kBProgress (1): 167/209 kBProgress (1): 171/209 kBProgress (1): 176/209 kBProgress (1): 180/209 kBProgress (1): 184/209 kBProgress (1): 188/209 kBProgress (1): 192/209 kBProgress (1): 196/209 kBProgress (1): 200/209 kBProgress (1): 204/209 kBProgress (1): 208/209 kBProgress (1): 209 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-assembly-plugin/2.2-beta-5/maven-assembly-plugin-2.2-beta-5.jar (209 kB at 261 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-dependency-plugin/2.8/maven-dependency-plugin-2.8.pom
+Progress (1): 4.1/11 kBProgress (1): 8.2/11 kBProgress (1): 11 kB                       Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-dependency-plugin/2.8/maven-dependency-plugin-2.8.pom (11 kB at 24 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-dependency-plugin/2.8/maven-dependency-plugin-2.8.jar
+Progress (1): 4.1/153 kBProgress (1): 8.2/153 kBProgress (1): 12/153 kB Progress (1): 16/153 kBProgress (1): 20/153 kBProgress (1): 24/153 kBProgress (1): 28/153 kBProgress (1): 32/153 kBProgress (1): 36/153 kBProgress (1): 40/153 kBProgress (1): 45/153 kBProgress (1): 49/153 kBProgress (1): 53/153 kBProgress (1): 57/153 kBProgress (1): 61/153 kBProgress (1): 65/153 kBProgress (1): 69/153 kBProgress (1): 73/153 kBProgress (1): 77/153 kBProgress (1): 81/153 kBProgress (1): 85/153 kBProgress (1): 90/153 kBProgress (1): 94/153 kBProgress (1): 98/153 kBProgress (1): 102/153 kBProgress (1): 106/153 kBProgress (1): 110/153 kBProgress (1): 114/153 kBProgress (1): 118/153 kBProgress (1): 122/153 kBProgress (1): 126/153 kBProgress (1): 131/153 kBProgress (1): 135/153 kBProgress (1): 139/153 kBProgress (1): 143/153 kBProgress (1): 147/153 kBProgress (1): 151/153 kBProgress (1): 153 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-dependency-plugin/2.8/maven-dependency-plugin-2.8.jar (153 kB at 288 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-release-plugin/2.5.3/maven-release-plugin-2.5.3.pom
+Progress (1): 4.1/11 kBProgress (1): 8.2/11 kBProgress (1): 11 kB                       Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-release-plugin/2.5.3/maven-release-plugin-2.5.3.pom (11 kB at 24 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/release/maven-release/2.5.3/maven-release-2.5.3.pom
+Progress (1): 4.1/5.0 kBProgress (1): 5.0 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/release/maven-release/2.5.3/maven-release-2.5.3.pom (5.0 kB at 2.8 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/27/maven-parent-27.pom
+Progress (1): 4.1/41 kBProgress (1): 8.2/41 kBProgress (1): 12/41 kB Progress (1): 16/41 kBProgress (1): 20/41 kBProgress (1): 24/41 kBProgress (1): 28/41 kBProgress (1): 32/41 kBProgress (1): 36/41 kBProgress (1): 40/41 kBProgress (1): 41 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/27/maven-parent-27.pom (41 kB at 5.1 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/apache/17/apache-17.pom
+Progress (1): 4.1/16 kBProgress (1): 8.2/16 kBProgress (1): 12/16 kB Progress (1): 16/16 kBProgress (1): 16 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/apache/17/apache-17.pom (16 kB at 16 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-release-plugin/2.5.3/maven-release-plugin-2.5.3.jar
+Progress (1): 4.1/53 kBProgress (1): 8.2/53 kBProgress (1): 12/53 kB Progress (1): 16/53 kBProgress (1): 20/53 kBProgress (1): 24/53 kBProgress (1): 28/53 kBProgress (1): 32/53 kBProgress (1): 36/53 kBProgress (1): 40/53 kBProgress (1): 45/53 kBProgress (1): 49/53 kBProgress (1): 53/53 kBProgress (1): 53 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-release-plugin/2.5.3/maven-release-plugin-2.5.3.jar (53 kB at 39 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-metadata.xml
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/mojo/maven-metadata.xml
+Progress (1): 4.1/14 kBProgress (1): 8.2/14 kBProgress (1): 12/14 kB Progress (1): 14 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-metadata.xml (14 kB at 23 kB/s)
+Progress (1): 2.7/20 kBProgress (1): 5.5/20 kBProgress (1): 8.2/20 kBProgress (1): 11/20 kB Progress (1): 14/20 kBProgress (1): 16/20 kBProgress (1): 19/20 kBProgress (1): 20 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/mojo/maven-metadata.xml (20 kB at 17 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/mojo/sonar-maven-plugin/maven-metadata.xml
+Progress (1): 1.3 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/mojo/sonar-maven-plugin/maven-metadata.xml (1.3 kB at 2.0 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/mojo/sonar-maven-plugin/3.9.1.2184/sonar-maven-plugin-3.9.1.2184.pom
+Progress (1): 1.1 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/mojo/sonar-maven-plugin/3.9.1.2184/sonar-maven-plugin-3.9.1.2184.pom (1.1 kB at 2.3 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/mojo/mojo-parent/40/mojo-parent-40.pom
+Progress (1): 2.7/34 kBProgress (1): 5.5/34 kBProgress (1): 8.2/34 kBProgress (1): 11/34 kB Progress (1): 14/34 kBProgress (1): 16/34 kBProgress (1): 19/34 kBProgress (1): 21/34 kBProgress (1): 24/34 kBProgress (1): 27/34 kBProgress (1): 30/34 kBProgress (1): 32/34 kBProgress (1): 34 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/mojo/mojo-parent/40/mojo-parent-40.pom (34 kB at 32 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonarsource/scanner/maven/sonar-maven-plugin/3.9.1.2184/sonar-maven-plugin-3.9.1.2184.pom
+Progress (1): 4.1/12 kBProgress (1): 8.2/12 kBProgress (1): 12 kB                       Downloaded from central: https://repo.maven.apache.org/maven2/org/sonarsource/scanner/maven/sonar-maven-plugin/3.9.1.2184/sonar-maven-plugin-3.9.1.2184.pom (12 kB at 20 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonarsource/parent/parent/59.0.29/parent-59.0.29.pom
+Progress (1): 4.1/32 kBProgress (1): 8.2/32 kBProgress (1): 12/32 kB Progress (1): 16/32 kBProgress (1): 20/32 kBProgress (1): 24/32 kBProgress (1): 28/32 kBProgress (1): 32 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/sonarsource/parent/parent/59.0.29/parent-59.0.29.pom (32 kB at 54 kB/s)
+[WARNING] The artifact org.codehaus.mojo:sonar-maven-plugin:jar:3.9.1.2184 has been relocated to org.sonarsource.scanner.maven:sonar-maven-plugin:jar:3.9.1.2184: SonarQube plugin was moved to SonarSource organisation
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonarsource/scanner/maven/sonar-maven-plugin/3.9.1.2184/sonar-maven-plugin-3.9.1.2184.jar
+Progress (1): 4.1/50 kBProgress (1): 8.2/50 kBProgress (1): 12/50 kB Progress (1): 16/50 kBProgress (1): 20/50 kBProgress (1): 24/50 kBProgress (1): 28/50 kBProgress (1): 32/50 kBProgress (1): 36/50 kBProgress (1): 40/50 kBProgress (1): 45/50 kBProgress (1): 49/50 kBProgress (1): 50 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/sonarsource/scanner/maven/sonar-maven-plugin/3.9.1.2184/sonar-maven-plugin-3.9.1.2184.jar (50 kB at 74 kB/s)
+[INFO] 
+[INFO] ------------< com.yourorganization:javaparser-maven-sample >------------
+[INFO] Building javaparser-maven-sample 1.0-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- sonar-maven-plugin:3.9.1.2184:sonar (default-cli) @ javaparser-maven-sample ---
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.4/plexus-sec-dispatcher-1.4.pom
+Progress (1): 3.0 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.4/plexus-sec-dispatcher-1.4.pom (3.0 kB at 6.5 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.2.1/plexus-utils-3.2.1.pom
+Progress (1): 4.1/5.3 kBProgress (1): 5.3 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.2.1/plexus-utils-3.2.1.pom (5.3 kB at 3.6 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonarsource/scanner/api/sonar-scanner-api/2.16.2.588/sonar-scanner-api-2.16.2.588.pom
+Progress (1): 4.1/5.2 kBProgress (1): 5.2 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/sonarsource/scanner/api/sonar-scanner-api/2.16.2.588/sonar-scanner-api-2.16.2.588.pom (5.2 kB at 4.5 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonarsource/scanner/api/sonar-scanner-api-parent/2.16.2.588/sonar-scanner-api-parent-2.16.2.588.pom
+Progress (1): 4.1/4.8 kBProgress (1): 4.8 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/sonarsource/scanner/api/sonar-scanner-api-parent/2.16.2.588/sonar-scanner-api-parent-2.16.2.588.pom (4.8 kB at 4.5 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6.pom
+Progress (1): 4.1/17 kBProgress (1): 8.2/17 kBProgress (1): 12/17 kB Progress (1): 16/17 kBProgress (1): 17 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6.pom (17 kB at 7.7 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/17/commons-parent-17.pom
+Progress (1): 4.1/31 kBProgress (1): 8.2/31 kBProgress (1): 12/31 kB Progress (1): 16/31 kBProgress (1): 20/31 kBProgress (1): 25/31 kBProgress (1): 29/31 kBProgress (1): 31 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/17/commons-parent-17.pom (31 kB at 12 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/apache/7/apache-7.pom
+Progress (1): 4.1/14 kBProgress (1): 8.2/14 kBProgress (1): 12/14 kB Progress (1): 14 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/apache/7/apache-7.pom (14 kB at 11 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.4/plexus-sec-dispatcher-1.4.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.2.1/plexus-utils-3.2.1.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonarsource/scanner/api/sonar-scanner-api/2.16.2.588/sonar-scanner-api-2.16.2.588.jar
+Downloading from central: https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6.jar
+Progress (1): 4.1/28 kBProgress (1): 8.2/28 kBProgress (1): 12/28 kB Progress (1): 16/28 kBProgress (1): 20/28 kBProgress (1): 24/28 kBProgress (1): 28 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.4/plexus-sec-dispatcher-1.4.jar (28 kB at 33 kB/s)
+Progress (1): 4.1/262 kBProgress (1): 8.2/262 kBProgress (1): 12/262 kB Progress (1): 16/262 kBProgress (2): 16/262 kB | 2.7/625 kBProgress (2): 16/262 kB | 5.5/625 kBProgress (2): 16/262 kB | 8.2/625 kBProgress (2): 16/262 kB | 11/625 kB Progress (2): 16/262 kB | 14/625 kBProgress (2): 16/262 kB | 16/625 kBProgress (2): 16/262 kB | 19/625 kBProgress (2): 16/262 kB | 21/625 kBProgress (2): 16/262 kB | 24/625 kBProgress (2): 16/262 kB | 27/625 kBProgress (2): 16/262 kB | 30/625 kBProgress (2): 16/262 kB | 32/625 kBProgress (2): 16/262 kB | 35/625 kBProgress (2): 16/262 kB | 38/625 kBProgress (2): 16/262 kB | 40/625 kBProgress (2): 16/262 kB | 43/625 kBProgress (3): 16/262 kB | 43/625 kB | 2.7/284 kBProgress (3): 16/262 kB | 46/625 kB | 2.7/284 kBProgress (3): 16/262 kB | 46/625 kB | 5.5/284 kBProgress (3): 16/262 kB | 46/625 kB | 8.2/284 kBProgress (3): 16/262 kB | 46/625 kB | 11/284 kB Progress (3): 16/262 kB | 46/625 kB | 14/284 kBProgress (3): 16/262 kB | 46/625 kB | 16/284 kBProgress (3): 16/262 kB | 49/625 kB | 16/284 kBProgress (3): 16/262 kB | 49/625 kB | 19/284 kBProgress (3): 16/262 kB | 49/625 kB | 21/284 kBProgress (3): 16/262 kB | 49/625 kB | 24/284 kBProgress (3): 16/262 kB | 49/625 kB | 27/284 kBProgress (3): 16/262 kB | 49/625 kB | 30/284 kBProgress (3): 16/262 kB | 49/625 kB | 32/284 kBProgress (3): 16/262 kB | 49/625 kB | 35/284 kBProgress (3): 16/262 kB | 49/625 kB | 38/284 kBProgress (3): 20/262 kB | 49/625 kB | 38/284 kBProgress (3): 24/262 kB | 49/625 kB | 38/284 kBProgress (3): 28/262 kB | 49/625 kB | 38/284 kBProgress (3): 32/262 kB | 49/625 kB | 38/284 kBProgress (3): 32/262 kB | 53/625 kB | 38/284 kBProgress (3): 32/262 kB | 57/625 kB | 38/284 kBProgress (3): 32/262 kB | 61/625 kB | 38/284 kBProgress (3): 32/262 kB | 65/625 kB | 38/284 kBProgress (3): 32/262 kB | 69/625 kB | 38/284 kBProgress (3): 32/262 kB | 73/625 kB | 38/284 kBProgress (3): 32/262 kB | 77/625 kB | 38/284 kBProgress (3): 32/262 kB | 81/625 kB | 38/284 kBProgress (3): 32/262 kB | 85/625 kB | 38/284 kBProgress (3): 32/262 kB | 90/625 kB | 38/284 kBProgress (3): 32/262 kB | 94/625 kB | 38/284 kBProgress (3): 32/262 kB | 98/625 kB | 38/284 kBProgress (3): 32/262 kB | 98/625 kB | 40/284 kBProgress (3): 32/262 kB | 98/625 kB | 43/284 kBProgress (3): 32/262 kB | 98/625 kB | 46/284 kBProgress (3): 32/262 kB | 102/625 kB | 46/284 kBProgress (3): 32/262 kB | 106/625 kB | 46/284 kBProgress (3): 32/262 kB | 110/625 kB | 46/284 kBProgress (3): 32/262 kB | 114/625 kB | 46/284 kBProgress (3): 32/262 kB | 114/625 kB | 49/284 kBProgress (3): 32/262 kB | 118/625 kB | 49/284 kBProgress (3): 32/262 kB | 122/625 kB | 49/284 kBProgress (3): 32/262 kB | 126/625 kB | 49/284 kBProgress (3): 32/262 kB | 131/625 kB | 49/284 kBProgress (3): 32/262 kB | 135/625 kB | 49/284 kBProgress (3): 32/262 kB | 139/625 kB | 49/284 kBProgress (3): 32/262 kB | 143/625 kB | 49/284 kBProgress (3): 32/262 kB | 147/625 kB | 49/284 kBProgress (3): 32/262 kB | 151/625 kB | 49/284 kBProgress (3): 32/262 kB | 155/625 kB | 49/284 kBProgress (3): 32/262 kB | 159/625 kB | 49/284 kBProgress (3): 32/262 kB | 163/625 kB | 49/284 kBProgress (3): 32/262 kB | 167/625 kB | 49/284 kBProgress (3): 32/262 kB | 171/625 kB | 49/284 kBProgress (3): 32/262 kB | 176/625 kB | 49/284 kBProgress (3): 32/262 kB | 180/625 kB | 49/284 kBProgress (3): 32/262 kB | 184/625 kB | 49/284 kBProgress (3): 32/262 kB | 188/625 kB | 49/284 kBProgress (3): 32/262 kB | 192/625 kB | 49/284 kBProgress (3): 32/262 kB | 196/625 kB | 49/284 kBProgress (3): 32/262 kB | 200/625 kB | 49/284 kBProgress (3): 32/262 kB | 204/625 kB | 49/284 kBProgress (3): 32/262 kB | 208/625 kB | 49/284 kBProgress (3): 32/262 kB | 212/625 kB | 49/284 kBProgress (3): 32/262 kB | 212/625 kB | 53/284 kBProgress (3): 32/262 kB | 212/625 kB | 57/284 kBProgress (3): 32/262 kB | 212/625 kB | 61/284 kBProgress (3): 32/262 kB | 212/625 kB | 65/284 kBProgress (3): 36/262 kB | 212/625 kB | 65/284 kBProgress (3): 40/262 kB | 212/625 kB | 65/284 kBProgress (3): 45/262 kB | 212/625 kB | 65/284 kBProgress (3): 49/262 kB | 212/625 kB | 65/284 kBProgress (3): 49/262 kB | 217/625 kB | 65/284 kBProgress (3): 49/262 kB | 221/625 kB | 65/284 kBProgress (3): 49/262 kB | 225/625 kB | 65/284 kBProgress (3): 49/262 kB | 229/625 kB | 65/284 kBProgress (3): 49/262 kB | 233/625 kB | 65/284 kBProgress (3): 49/262 kB | 237/625 kB | 65/284 kBProgress (3): 49/262 kB | 241/625 kB | 65/284 kBProgress (3): 49/262 kB | 245/625 kB | 65/284 kBProgress (3): 49/262 kB | 249/625 kB | 65/284 kBProgress (3): 49/262 kB | 253/625 kB | 65/284 kBProgress (3): 49/262 kB | 258/625 kB | 65/284 kBProgress (3): 49/262 kB | 262/625 kB | 65/284 kBProgress (3): 49/262 kB | 266/625 kB | 65/284 kBProgress (3): 49/262 kB | 270/625 kB | 65/284 kBProgress (3): 49/262 kB | 274/625 kB | 65/284 kBProgress (3): 49/262 kB | 278/625 kB | 65/284 kBProgress (3): 49/262 kB | 282/625 kB | 65/284 kBProgress (3): 49/262 kB | 286/625 kB | 65/284 kBProgress (3): 49/262 kB | 290/625 kB | 65/284 kBProgress (3): 49/262 kB | 294/625 kB | 65/284 kBProgress (3): 49/262 kB | 294/625 kB | 69/284 kBProgress (3): 49/262 kB | 294/625 kB | 73/284 kBProgress (3): 49/262 kB | 294/625 kB | 77/284 kBProgress (3): 49/262 kB | 294/625 kB | 81/284 kBProgress (3): 49/262 kB | 298/625 kB | 81/284 kBProgress (3): 49/262 kB | 298/625 kB | 85/284 kBProgress (3): 49/262 kB | 303/625 kB | 85/284 kBProgress (3): 49/262 kB | 303/625 kB | 90/284 kBProgress (3): 49/262 kB | 307/625 kB | 90/284 kBProgress (3): 49/262 kB | 307/625 kB | 94/284 kBProgress (3): 49/262 kB | 311/625 kB | 94/284 kBProgress (3): 49/262 kB | 311/625 kB | 98/284 kBProgress (3): 49/262 kB | 315/625 kB | 98/284 kBProgress (3): 49/262 kB | 319/625 kB | 98/284 kBProgress (3): 49/262 kB | 323/625 kB | 98/284 kBProgress (3): 49/262 kB | 327/625 kB | 98/284 kBProgress (3): 49/262 kB | 331/625 kB | 98/284 kBProgress (3): 49/262 kB | 335/625 kB | 98/284 kBProgress (3): 49/262 kB | 339/625 kB | 98/284 kBProgress (3): 49/262 kB | 343/625 kB | 98/284 kBProgress (3): 49/262 kB | 348/625 kB | 98/284 kBProgress (3): 49/262 kB | 352/625 kB | 98/284 kBProgress (3): 49/262 kB | 356/625 kB | 98/284 kBProgress (3): 49/262 kB | 360/625 kB | 98/284 kBProgress (3): 49/262 kB | 360/625 kB | 102/284 kBProgress (3): 49/262 kB | 360/625 kB | 106/284 kBProgress (3): 49/262 kB | 360/625 kB | 110/284 kBProgress (3): 49/262 kB | 360/625 kB | 114/284 kBProgress (3): 49/262 kB | 364/625 kB | 114/284 kBProgress (3): 49/262 kB | 368/625 kB | 114/284 kBProgress (3): 49/262 kB | 372/625 kB | 114/284 kBProgress (3): 49/262 kB | 376/625 kB | 114/284 kBProgress (3): 49/262 kB | 380/625 kB | 114/284 kBProgress (3): 49/262 kB | 384/625 kB | 114/284 kBProgress (3): 49/262 kB | 389/625 kB | 114/284 kBProgress (3): 49/262 kB | 393/625 kB | 114/284 kBProgress (3): 49/262 kB | 397/625 kB | 114/284 kBProgress (3): 49/262 kB | 401/625 kB | 114/284 kBProgress (3): 49/262 kB | 405/625 kB | 114/284 kBProgress (3): 49/262 kB | 409/625 kB | 114/284 kBProgress (3): 53/262 kB | 409/625 kB | 114/284 kBProgress (3): 53/262 kB | 413/625 kB | 114/284 kBProgress (3): 57/262 kB | 413/625 kB | 114/284 kBProgress (3): 61/262 kB | 413/625 kB | 114/284 kBProgress (3): 65/262 kB | 413/625 kB | 114/284 kBProgress (3): 65/262 kB | 417/625 kB | 114/284 kBProgress (3): 65/262 kB | 421/625 kB | 114/284 kBProgress (3): 65/262 kB | 425/625 kB | 114/284 kBProgress (3): 65/262 kB | 430/625 kB | 114/284 kBProgress (3): 65/262 kB | 434/625 kB | 114/284 kBProgress (3): 65/262 kB | 438/625 kB | 114/284 kBProgress (3): 65/262 kB | 442/625 kB | 114/284 kBProgress (3): 65/262 kB | 442/625 kB | 118/284 kBProgress (3): 65/262 kB | 442/625 kB | 122/284 kBProgress (3): 65/262 kB | 442/625 kB | 126/284 kBProgress (3): 65/262 kB | 442/625 kB | 131/284 kBProgress (3): 65/262 kB | 446/625 kB | 131/284 kBProgress (3): 65/262 kB | 450/625 kB | 131/284 kBProgress (3): 65/262 kB | 454/625 kB | 131/284 kBProgress (3): 65/262 kB | 458/625 kB | 131/284 kBProgress (3): 65/262 kB | 462/625 kB | 131/284 kBProgress (3): 65/262 kB | 466/625 kB | 131/284 kBProgress (3): 65/262 kB | 470/625 kB | 131/284 kBProgress (3): 65/262 kB | 475/625 kB | 131/284 kBProgress (3): 65/262 kB | 479/625 kB | 131/284 kBProgress (3): 65/262 kB | 483/625 kB | 131/284 kBProgress (3): 65/262 kB | 487/625 kB | 131/284 kBProgress (3): 65/262 kB | 491/625 kB | 131/284 kBProgress (3): 65/262 kB | 491/625 kB | 135/284 kBProgress (3): 65/262 kB | 491/625 kB | 139/284 kBProgress (3): 65/262 kB | 491/625 kB | 143/284 kBProgress (3): 65/262 kB | 491/625 kB | 147/284 kBProgress (3): 65/262 kB | 495/625 kB | 147/284 kBProgress (3): 65/262 kB | 499/625 kB | 147/284 kBProgress (3): 65/262 kB | 503/625 kB | 147/284 kBProgress (3): 65/262 kB | 507/625 kB | 147/284 kBProgress (3): 65/262 kB | 511/625 kB | 147/284 kBProgress (3): 65/262 kB | 516/625 kB | 147/284 kBProgress (3): 65/262 kB | 520/625 kB | 147/284 kBProgress (3): 65/262 kB | 524/625 kB | 147/284 kBProgress (3): 65/262 kB | 527/625 kB | 147/284 kBProgress (3): 65/262 kB | 532/625 kB | 147/284 kBProgress (3): 65/262 kB | 536/625 kB | 147/284 kBProgress (3): 65/262 kB | 540/625 kB | 147/284 kBProgress (3): 65/262 kB | 544/625 kB | 147/284 kBProgress (3): 65/262 kB | 544/625 kB | 151/284 kBProgress (3): 65/262 kB | 544/625 kB | 155/284 kBProgress (3): 65/262 kB | 544/625 kB | 159/284 kBProgress (3): 65/262 kB | 544/625 kB | 163/284 kBProgress (3): 65/262 kB | 548/625 kB | 163/284 kBProgress (3): 65/262 kB | 552/625 kB | 163/284 kBProgress (3): 65/262 kB | 556/625 kB | 163/284 kBProgress (3): 65/262 kB | 560/625 kB | 163/284 kBProgress (3): 65/262 kB | 564/625 kB | 163/284 kBProgress (3): 65/262 kB | 568/625 kB | 163/284 kBProgress (3): 65/262 kB | 573/625 kB | 163/284 kBProgress (3): 65/262 kB | 577/625 kB | 163/284 kBProgress (3): 65/262 kB | 581/625 kB | 163/284 kBProgress (3): 65/262 kB | 585/625 kB | 163/284 kBProgress (3): 65/262 kB | 589/625 kB | 163/284 kBProgress (3): 65/262 kB | 593/625 kB | 163/284 kBProgress (3): 65/262 kB | 593/625 kB | 167/284 kBProgress (3): 65/262 kB | 593/625 kB | 171/284 kBProgress (3): 65/262 kB | 593/625 kB | 176/284 kBProgress (3): 65/262 kB | 593/625 kB | 180/284 kBProgress (3): 65/262 kB | 597/625 kB | 180/284 kBProgress (3): 65/262 kB | 601/625 kB | 180/284 kBProgress (3): 65/262 kB | 605/625 kB | 180/284 kBProgress (3): 65/262 kB | 609/625 kB | 180/284 kBProgress (3): 65/262 kB | 613/625 kB | 180/284 kBProgress (3): 65/262 kB | 618/625 kB | 180/284 kBProgress (3): 65/262 kB | 622/625 kB | 180/284 kBProgress (3): 65/262 kB | 625 kB | 180/284 kB    Progress (3): 65/262 kB | 625 kB | 184/284 kBProgress (3): 65/262 kB | 625 kB | 188/284 kBProgress (3): 65/262 kB | 625 kB | 192/284 kBProgress (3): 65/262 kB | 625 kB | 196/284 kBProgress (3): 65/262 kB | 625 kB | 200/284 kBProgress (3): 65/262 kB | 625 kB | 204/284 kBProgress (3): 65/262 kB | 625 kB | 208/284 kBProgress (3): 65/262 kB | 625 kB | 212/284 kBProgress (3): 65/262 kB | 625 kB | 217/284 kBProgress (3): 65/262 kB | 625 kB | 221/284 kBProgress (3): 65/262 kB | 625 kB | 225/284 kBProgress (3): 65/262 kB | 625 kB | 229/284 kBProgress (3): 65/262 kB | 625 kB | 233/284 kBProgress (3): 65/262 kB | 625 kB | 237/284 kBProgress (3): 65/262 kB | 625 kB | 241/284 kBProgress (3): 65/262 kB | 625 kB | 245/284 kBProgress (3): 65/262 kB | 625 kB | 249/284 kBProgress (3): 65/262 kB | 625 kB | 253/284 kBProgress (3): 65/262 kB | 625 kB | 258/284 kBProgress (3): 65/262 kB | 625 kB | 262/284 kBProgress (3): 65/262 kB | 625 kB | 266/284 kBProgress (3): 65/262 kB | 625 kB | 270/284 kBProgress (3): 65/262 kB | 625 kB | 274/284 kBProgress (3): 65/262 kB | 625 kB | 278/284 kBProgress (3): 69/262 kB | 625 kB | 278/284 kBProgress (3): 73/262 kB | 625 kB | 278/284 kBProgress (3): 77/262 kB | 625 kB | 278/284 kBProgress (3): 81/262 kB | 625 kB | 278/284 kBProgress (3): 81/262 kB | 625 kB | 282/284 kBProgress (3): 81/262 kB | 625 kB | 284 kB                                             Downloaded from central: https://repo.maven.apache.org/maven2/org/sonarsource/scanner/api/sonar-scanner-api/2.16.2.588/sonar-scanner-api-2.16.2.588.jar (625 kB at 189 kB/s)
+Downloaded from central: https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6.jar (284 kB at 79 kB/s)
+Progress (1): 85/262 kBProgress (1): 90/262 kBProgress (1): 94/262 kBProgress (1): 98/262 kBProgress (1): 102/262 kBProgress (1): 106/262 kBProgress (1): 110/262 kBProgress (1): 114/262 kBProgress (1): 118/262 kBProgress (1): 122/262 kBProgress (1): 126/262 kBProgress (1): 131/262 kBProgress (1): 135/262 kBProgress (1): 139/262 kBProgress (1): 143/262 kBProgress (1): 147/262 kBProgress (1): 151/262 kBProgress (1): 155/262 kBProgress (1): 159/262 kBProgress (1): 163/262 kBProgress (1): 167/262 kBProgress (1): 171/262 kBProgress (1): 176/262 kBProgress (1): 180/262 kBProgress (1): 184/262 kBProgress (1): 188/262 kBProgress (1): 192/262 kBProgress (1): 196/262 kBProgress (1): 200/262 kBProgress (1): 204/262 kBProgress (1): 208/262 kBProgress (1): 212/262 kBProgress (1): 217/262 kBProgress (1): 221/262 kBProgress (1): 225/262 kBProgress (1): 229/262 kBProgress (1): 233/262 kBProgress (1): 237/262 kBProgress (1): 241/262 kBProgress (1): 245/262 kBProgress (1): 249/262 kBProgress (1): 253/262 kBProgress (1): 258/262 kBProgress (1): 262/262 kBProgress (1): 262 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.2.1/plexus-utils-3.2.1.jar (262 kB at 42 kB/s)
+[INFO] User cache: C:\WINDOWS\system32\config\systemprofile\.sonar\cache
+[INFO] SonarQube version: 9.3.0
+[INFO] Default locale: "en_IN", source code encoding: "UTF-8"
+[INFO] Load global settings
+[INFO] Load global settings (done) | time=390ms
+[INFO] Server id: BF41A1F2-AX_aqqCbzLmN19BiJ9CW
+[INFO] User cache: C:\WINDOWS\system32\config\systemprofile\.sonar\cache
+[INFO] Load/download plugins
+[INFO] Load plugins index
+[INFO] Load plugins index (done) | time=292ms
+[INFO] Load/download plugins (done) | time=13551ms
+[INFO] Loaded core extensions: developer-scanner
+[INFO] Process project properties
+[INFO] Process project properties (done) | time=48ms
+[INFO] Execute project builders
+[INFO] Execute project builders (done) | time=6ms
+[INFO] Project key: com.yourorganization:javaparser-maven-sample
+[INFO] Base dir: C:\Program Files (x86)\Jenkins\workspace\pipeline task
+[INFO] Working dir: C:\Program Files (x86)\Jenkins\workspace\pipeline task\target\sonar
+[INFO] Load project settings for component key: 'com.yourorganization:javaparser-maven-sample'
+[INFO] Load project branches
+[INFO] Load project branches (done) | time=27ms
+[INFO] Load project pull requests
+[INFO] Load project pull requests (done) | time=21ms
+[INFO] Load branch configuration
+[INFO] Load branch configuration (done) | time=4ms
+[INFO] Auto-configuring with CI 'Jenkins'
+[INFO] Load quality profiles
+[INFO] Load quality profiles (done) | time=332ms
+[INFO] Auto-configuring with CI 'Jenkins'
+[INFO] Load active rules
+[INFO] Load active rules (done) | time=10101ms
+[INFO] Indexing files...
+[INFO] Project configuration:
+[INFO] 2 files indexed
+[INFO] 0 files ignored because of scm ignore settings
+[INFO] Quality profile for java: Sonar way
+[INFO] Quality profile for xml: Sonar way
+[INFO] ------------- Run sensors on module javaparser-maven-sample
+[INFO] Load metrics repository
+[INFO] Load metrics repository (done) | time=95ms
+[INFO] Sensor JavaSensor [java]
+[INFO] Configured Java source version (sonar.java.source): 8
+[INFO] JavaClasspath initialization
+[INFO] JavaClasspath initialization (done) | time=5ms
+[INFO] JavaTestClasspath initialization
+[INFO] JavaTestClasspath initialization (done) | time=2ms
+[INFO] Java "Main" source files AST scan
+[INFO] 1 source file to be analyzed
+[INFO] Load project repositories
+[INFO] Load project repositories (done) | time=15ms
+[INFO] 1/1 source file has been analyzed
+[INFO] Java "Main" source files AST scan (done) | time=5545ms
+[INFO] No "Test" source files to scan.
+[INFO] No "Generated" source files to scan.
+[INFO] Sensor JavaSensor [java] (done) | time=6964ms
+[INFO] Sensor C# Project Type Information [csharp]
+[INFO] Sensor C# Project Type Information [csharp] (done) | time=2ms
+[INFO] Sensor C# Analysis Log [csharp]
+[INFO] Sensor C# Analysis Log [csharp] (done) | time=42ms
+[INFO] Sensor C# Properties [csharp]
+[INFO] Sensor C# Properties [csharp] (done) | time=1ms
+[INFO] Sensor SurefireSensor [java]
+[INFO] parsing [C:\Program Files (x86)\Jenkins\workspace\pipeline task\target\surefire-reports]
+[INFO] Sensor SurefireSensor [java] (done) | time=5ms
+[INFO] Sensor HTML [web]
+[INFO] Sensor HTML [web] (done) | time=5ms
+[INFO] Sensor XML Sensor [xml]
+[INFO] 1 source file to be analyzed
+[INFO] 1/1 source file has been analyzed
+[INFO] Sensor XML Sensor [xml] (done) | time=884ms
+[INFO] Sensor Text Sensor [text]
+[INFO] 2 source files to be analyzed
+[INFO] 2/2 source files have been analyzed
+[INFO] Sensor Text Sensor [text] (done) | time=16ms
+[INFO] Sensor VB.NET Project Type Information [vbnet]
+[INFO] Sensor VB.NET Project Type Information [vbnet] (done) | time=0ms
+[INFO] Sensor VB.NET Analysis Log [vbnet]
+[INFO] Sensor VB.NET Analysis Log [vbnet] (done) | time=43ms
+[INFO] Sensor VB.NET Properties [vbnet]
+[INFO] Sensor VB.NET Properties [vbnet] (done) | time=0ms
+[INFO] Sensor JaCoCo XML Report Importer [jacoco]
+[INFO] 'sonar.coverage.jacoco.xmlReportPaths' is not defined. Using default locations: target/site/jacoco/jacoco.xml,target/site/jacoco-it/jacoco.xml,build/reports/jacoco/test/jacocoTestReport.xml
+[INFO] No report imported, no coverage information will be imported by JaCoCo XML Report Importer
+[INFO] Sensor JaCoCo XML Report Importer [jacoco] (done) | time=7ms
+[INFO] Sensor CSS Rules [javascript]
+[INFO] No CSS, PHP, HTML or VueJS files are found in the project. CSS analysis is skipped.
+[INFO] Sensor CSS Rules [javascript] (done) | time=3ms
+[INFO] Sensor ThymeLeaf template sensor [securityjavafrontend]
+[INFO] Sensor ThymeLeaf template sensor [securityjavafrontend] (done) | time=7ms
+[INFO] Sensor Serverless configuration file sensor [security]
+[INFO] 0 Serverless function entries were found in the project
+[INFO] 0 Serverless function handlers were kept as entrypoints
+[INFO] Sensor Serverless configuration file sensor [security] (done) | time=17ms
+[INFO] Sensor AWS SAM template file sensor [security]
+[INFO] Sensor AWS SAM template file sensor [security] (done) | time=2ms
+[INFO] Sensor JavaSecuritySensor [security]
+[INFO] Reading type hierarchy from: C:\Program Files (x86)\Jenkins\workspace\pipeline task\target\sonar\ucfg2\java
+[INFO] Read 29 type definitions
+[INFO] Reading UCFGs from: C:\Program Files (x86)\Jenkins\workspace\pipeline task\target\sonar\ucfg2\java
+[INFO] 10:53:26.4007036 Building Runtime Type propagation graph
+[INFO] 10:53:26.4160424 Running Tarjan on 15 nodes
+[INFO] 10:53:26.4190255 Tarjan found 15 components
+[INFO] 10:53:26.4233292 Variable type analysis: done
+[INFO] 10:53:26.4260046 Building Runtime Type propagation graph
+[INFO] 10:53:26.4291646 Running Tarjan on 15 nodes
+[INFO] 10:53:26.4291646 Tarjan found 15 components
+[INFO] 10:53:26.4301925 Variable type analysis: done
+[INFO] Analyzing 3 ucfgs to detect vulnerabilities.
+[INFO] All rules entrypoints : 0
+[INFO] Retained UCFGs : 0
+[INFO] Taint analysis starting. Entrypoints: 0
+[INFO] Taint analysis: done.
+[INFO] Sensor JavaSecuritySensor [security] (done) | time=1026ms
+[INFO] Sensor CSharpSecuritySensor [security]
+[INFO] Reading type hierarchy from: C:\Program Files (x86)\Jenkins\workspace\pipeline task\target\ucfg_cs2
+[INFO] Read 0 type definitions
+[INFO] Reading UCFGs from: C:\Program Files (x86)\Jenkins\workspace\pipeline task\target\ucfg_cs2
+[INFO] No UCFGs have been included for analysis.
+[INFO] Sensor CSharpSecuritySensor [security] (done) | time=2ms
+[INFO] Sensor PhpSecuritySensor [security]
+[INFO] Reading type hierarchy from: C:\Program Files (x86)\Jenkins\workspace\pipeline task\target\sonar\ucfg2\php
+[INFO] Read 0 type definitions
+[INFO] Reading UCFGs from: C:\Program Files (x86)\Jenkins\workspace\pipeline task\target\sonar\ucfg2\php
+[INFO] No UCFGs have been included for analysis.
+[INFO] Sensor PhpSecuritySensor [security] (done) | time=1ms
+[INFO] Sensor PythonSecuritySensor [security]
+[INFO] Reading type hierarchy from: C:\Program Files (x86)\Jenkins\workspace\pipeline task\target\sonar\ucfg2\python
+[INFO] Read 0 type definitions
+[INFO] Reading UCFGs from: C:\Program Files (x86)\Jenkins\workspace\pipeline task\target\sonar\ucfg2\python
+[INFO] No UCFGs have been included for analysis.
+[INFO] Sensor PythonSecuritySensor [security] (done) | time=1ms
+[INFO] Sensor JsSecuritySensor [security]
+[INFO] Reading type hierarchy from: C:\Program Files (x86)\Jenkins\workspace\pipeline task\target\sonar\ucfg2\js
+[INFO] Read 0 type definitions
+[INFO] Reading UCFGs from: C:\Program Files (x86)\Jenkins\workspace\pipeline task\target\sonar\ucfg2\js
+[INFO] No UCFGs have been included for analysis.
+[INFO] Sensor JsSecuritySensor [security] (done) | time=1ms
+[INFO] ------------- Run sensors on project
+[INFO] Sensor Zero Coverage Sensor
+[INFO] Sensor Zero Coverage Sensor (done) | time=21ms
+[INFO] Sensor Java CPD Block Indexer
+[INFO] Sensor Java CPD Block Indexer (done) | time=45ms
+[INFO] SCM Publisher SCM provider for this project is: git
+[INFO] SCM Publisher 2 source files to be analyzed
+[INFO] SCM Publisher 2/2 source files have been analyzed (done) | time=362ms
+[INFO] CPD Executor Calculating CPD for 1 file
+[INFO] CPD Executor CPD calculation finished (done) | time=20ms
+[INFO] Analysis report generated in 239ms, dir size=194.3 kB
+[INFO] Analysis report compressed in 134ms, zip size=28.7 kB
+[INFO] Analysis report uploaded in 2337ms
+[INFO] ANALYSIS SUCCESSFUL, you can browse http://localhost:9000/dashboard?id=com.yourorganization%3Ajavaparser-maven-sample
+[INFO] Note that you will be able to access the updated dashboard once the server has processed the submitted analysis report
+[INFO] More about the report processing at http://localhost:9000/api/ce/task?id=AX_ebcVlzLmN19BiKEWE
+[INFO] Analysis total time: 34.630 s
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  01:42 min
+[INFO] Finished at: 2022-03-31T10:53:30+05:30
+[INFO] ------------------------------------------------------------------------
+[8mha:////4GDaFSzTnqe/U2XGsPPpie2zy4jUBj9yTClbo+jaxMGCAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiIagQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcr97lPbN5RlVvO+AAAA[0m[Pipeline] }
+[8mha:////4IMsomz57+Siep1vypGf8Gw1BRXtS676NKzTY6hOM701AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiilSIitZKwwtMYowd686xHZyKF/E1/kAgEhVbrHa2mecL1jHAkYNGq6g3FFuD3o16Xpg59FfHGS1fsGWK7BQ2KjfcqdOCDScFS4oSVgI2ilrH0ZBOsBVW3mXlJOnqnML8HQSUphvgAYWYzUmG9IUpwO42dpHp5/krgMn7BGVdf2r/BovnA6G+AAAA[0m[Pipeline] // withEnv
+[8mha:////4MW6CewG4iQuUin3tAyqKoOh4lAdcKTt7tYvtMkdaU5mAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOLSAEJCqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKZhiFDu9rm2hw/AHFBHvgAAAA==[0m[Pipeline] }
+[8mha:////4FzgJc88Rufado6nxykdwntyZkzQGNeGe/utvbdB2eVvAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOLSgFIgqrRWGl5gYmOcWHfGdkgqXsTX+AMWkajYYrWzzbzesI4BThwM9poGS7Gz6N1o8sKJw3B1PGHPF+yYIjuNrZ5aVrpZsOWkYUlRwkrARlPnOFoyCbailw9ZOUmmOqeQv6OA0qo7PKEQ2ZxkSF+YA+xuo4pMP89fAczeJygPda59/QH00rMcvgAAAA==[0m[Pipeline] // stage
+[8mha:////4IiM7J1jpNDtEyb8anEXKS0kAAQGGhlyncJXqtKao4FJAAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIikJCQUCpayw0vMIkxTqy7YDs4FS/ia/wBi0hUbLHa2WZeb1gGDzV7g52m3lJoLA5uNHlhYt9fHSfs+IINU2CnUeokudWnGSVHDXOKEhYCVpoax8GSibAWnXqoyiky1Tn6/B0FlLa9wxMKkc1R+fiFycPmNraB6ef5K4BpGCKU+0Ou7e4D62D44L4AAAA=[0m[Pipeline] }
+[8mha:////4K+ynXYorV1d/UUWi3don/vDumZUUPgZwgysQ7H29nVwAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKiFBQIUaW10vACExvjxLoztkNS8SK+xh+wiETFFqudbeb1hnUMcOJgsNc0WIqdRe9GkxdOHIar4wl7vmDHFNlpbPXUstLNgi0nDUuKElYCNpo6x9GSSbAVvXzIykky1TmF/B0FlFbd4QmFyOYkQ/rCHGB3G1Vk+nn+CmD2PkG5P+Sq6w/04q2yvgAAAA==[0m[Pipeline] // withEnv
+[8mha:////4BLqsZwcjxEOE/XyitoBB1LIKP+60puE74MmrZf/nknZAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMKhQDSIitZKwwtMYowT6y7YF5KKF/E1/kBEJCq22plmXm8sU8SRo1ONpdZTqrzqQu+mpwaO7TXwoBq+qIopcbCqtEPJtT3NWLJYzMtyLDRWlqrAyZMTrHVjHqYIhlxxlji5g0bu6zueyPRUFhPlC2PE5tbXienX+RvA2HWCfL8VZLsPPRtAz70AAAA=[0m[Pipeline] }
+[8mha:////4EHEGt6BhIZDk0BgXa3U/di/Usuhm/P7KmI4VGhw/tRoAAAApB+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRQqJBVLRWGl5gEmOcWHfBvpBUvIiv8QciIlGx1c4083pjmSKOHJ1qLLWeUuVVF3o3PTVwbK+BB9XwRVVMiYNVpR1Kru1pxpLFYl6WY6GxslQFTp6cYK0b8zBFMOSKs8TJHTRyX9/xRKanspgoXxgjNre+Tky/zt8Axq4T5PutINt9AC6nRGy9AAAA[0m[Pipeline] // node
+[8mha:////4FAfkgUWX68Q8gETrX1+tyUpORDwvWCogvxIZTsM9oNwAAAAox+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6IkDC7GybVh8Qsq1Fpo3sP2IUx+kb/mP0gkcfJO95zlvN5Yp4gjR6daS52nVHvVh8HNT40cu2vgUbV8UTVT4mBVZceKG3tasGKxWJblWGlsLNWBkycn2OrWPEwRDLniLHF2B43cN3c8kem5LCbKF6aI3W1oEtOv8zeAqe8F+b4UZOUHaO3jXL0AAAA=[0m[Pipeline] End of Pipeline
+Finished: SUCCESS
